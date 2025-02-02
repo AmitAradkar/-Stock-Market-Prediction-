@@ -5,7 +5,7 @@ Python
 
 ## Project Code  Contents  
 - [Stock Price Prediction with LSTM, GRU, and RNN Models](#stock-price-prediction-with-lstm-gru-and-rnn-models)
-- [Data Preprocessing and Time Series Analysis](#data-preprocessing)  
+- [Data Preprocessing](#data-preprocessing)  
 - [Building and Evaluating the LSTM Model](#building-and-evaluating-the-lstm-model)  
 - [Building and Evaluating the RNN Model](#building-and-evaluating-the-rnn-model)  
 - [Building and Evaluating the GRU Model](#building-and-evaluating-the-gru-model)
